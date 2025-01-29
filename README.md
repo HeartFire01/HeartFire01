@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andreas</h1>
 <h3 align="center">A mere person who interested in Machine Learning problems</h3>
 
-- 🌱 I’m currently learning **Machine Learning, especially in Artificial Intelligence scope like LLM and Object Detection**
+- 🌱 I’m currently learning **Machine Learning, especially in Artificial Intelligence scope like LLM and Computer Vision**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
